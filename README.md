@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -31,4 +32,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
