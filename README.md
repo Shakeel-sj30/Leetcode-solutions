@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -35,4 +36,5 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
