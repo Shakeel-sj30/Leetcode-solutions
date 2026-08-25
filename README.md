@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
