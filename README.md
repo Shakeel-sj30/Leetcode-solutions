@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Algorithm X
 |  |
 | ------- |
@@ -111,4 +112,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
