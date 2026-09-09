@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -29,10 +30,12 @@
 | [0040-combination-sum-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
