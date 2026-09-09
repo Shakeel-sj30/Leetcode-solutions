@@ -116,9 +116,11 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
