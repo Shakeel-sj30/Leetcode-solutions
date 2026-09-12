@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -132,8 +133,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
