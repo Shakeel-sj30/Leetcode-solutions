@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -109,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -152,6 +156,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
