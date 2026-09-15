@@ -70,6 +70,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -93,6 +94,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -103,6 +105,7 @@
 | [0155-min-stack](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
