@@ -119,6 +119,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
@@ -178,5 +179,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
