@@ -105,6 +105,7 @@
 | [0155-min-stack](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -122,6 +123,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0002-add-two-numbers](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -180,5 +183,6 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
