@@ -84,6 +84,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -123,6 +124,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -144,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -191,7 +194,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
