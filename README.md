@@ -135,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -194,6 +195,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
