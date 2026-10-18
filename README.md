@@ -108,6 +108,7 @@
 | [0014-longest-common-prefix](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
