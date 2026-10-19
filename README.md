@@ -116,6 +116,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -242,5 +244,6 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shakeel-sj30/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
